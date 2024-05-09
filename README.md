@@ -25,6 +25,7 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 <hr>
 
 ## Program
+
 ```
 import time
 
